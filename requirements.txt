@@ -1,0 +1,6 @@
+# pinned to tested versions — pyside6-essentials 6.12+ wheels no longer
+# bundle libxcb-cursor.so.0, which the xcb platform plugin requires
+pyside6-essentials==6.11.2
+pyqtgraph==0.14.0
+meshcore==2.3.14
+pillow==12.3.0
